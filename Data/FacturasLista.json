@@ -1,0 +1,72 @@
+[
+  {
+    "Id": 2,
+    "NumeroFactura": "02",
+    "Fecha": "2025-08-11T20:21:17.3037618-06:00",
+    "Cliente": "Gary",
+    "Videojuego": "Minecraft",
+    "Cantidad": 3,
+    "PrecioUnitario": 100.0,
+    "Total": 0.0
+  },
+  {
+    "Id": 100001,
+    "NumeroFactura": "01102",
+    "Fecha": "2025-08-11T20:33:55.1151677-06:00",
+    "Cliente": "Gary",
+    "Videojuego": "Super Mario Odyssey",
+    "Cantidad": 4,
+    "PrecioUnitario": 200.0,
+    "Total": 0.0
+  },
+  {
+    "Id": 89234391,
+    "NumeroFactura": "02",
+    "Fecha": "2025-08-12T14:44:06.6621547-06:00",
+    "Cliente": "Daniel",
+    "Videojuego": "God of War: Ragnarök",
+    "Cantidad": 3,
+    "PrecioUnitario": 489.0,
+    "Total": 0.0
+  },
+  {
+    "Id": 902391232,
+    "NumeroFactura": "03",
+    "Fecha": "2025-08-12T14:45:27.7089853-06:00",
+    "Cliente": "Montoya",
+    "Videojuego": "Call of Duty: Modern Warfare III",
+    "Cantidad": 10,
+    "PrecioUnitario": 1079.0,
+    "Total": 0.0
+  },
+  {
+    "Id": 8012992,
+    "NumeroFactura": "03",
+    "Fecha": "2025-08-13T08:56:25.1585821-06:00",
+    "Cliente": "Alex",
+    "Videojuego": "The Legend of Zelda: Breath of the Wild",
+    "Cantidad": 2,
+    "PrecioUnitario": 902.0,
+    "Total": 1804.0
+  },
+  {
+    "Id": 901222,
+    "NumeroFactura": "011",
+    "Fecha": "2025-08-15T23:07:44.2756318-06:00",
+    "Cliente": "Jose Marcos Montes",
+    "Videojuego": "ProyectoFinal03.clases.Inventario",
+    "Cantidad": 4,
+    "PrecioUnitario": 9011.0,
+    "Total": 36044.0
+  },
+  {
+    "Id": 199922,
+    "NumeroFactura": "0330",
+    "Fecha": "2025-08-16T01:24:12.9613139-06:00",
+    "Cliente": "gary daniel montoya Guzman",
+    "Videojuego": "ProyectoFinal03.clases.Juegos",
+    "Cantidad": 2,
+    "PrecioUnitario": 750.0,
+    "Total": 1500.0
+  }
+]

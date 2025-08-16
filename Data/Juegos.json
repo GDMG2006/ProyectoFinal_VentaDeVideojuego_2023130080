@@ -1,0 +1,72 @@
+[
+  {
+    "Nombre": "Mario",
+    "Genero": "Accion",
+    "Precio": 89.0,
+    "Stock": 2,
+    "Clasificacion": {
+      "Nombre": "Mario",
+      "Descripcion": "action",
+      "EdadMinima": 13,
+      "SistemaClasificacion": "M+",
+      "Activo": true
+    },
+    "Activo": true
+  },
+  {
+    "Nombre": "bros",
+    "Genero": "mmd",
+    "Precio": 31.0,
+    "Stock": 43,
+    "Clasificacion": {
+      "Nombre": "Mario",
+      "Descripcion": "action",
+      "EdadMinima": 13,
+      "SistemaClasificacion": "M+",
+      "Activo": true
+    },
+    "Activo": true
+  },
+  {
+    "Nombre": "tre",
+    "Genero": "avion",
+    "Precio": 120.0,
+    "Stock": 9,
+    "Clasificacion": {
+      "Nombre": "Mario",
+      "Descripcion": "action",
+      "EdadMinima": 13,
+      "SistemaClasificacion": "M+",
+      "Activo": true
+    },
+    "Activo": true
+  },
+  {
+    "Nombre": "gta",
+    "Genero": "acion",
+    "Precio": 90.0,
+    "Stock": 3,
+    "Clasificacion": {
+      "Nombre": "Mario",
+      "Descripcion": "action",
+      "EdadMinima": 13,
+      "SistemaClasificacion": "M+",
+      "Activo": true
+    },
+    "Activo": true
+  },
+  {
+    "Nombre": "Mario",
+    "Genero": "Aventura",
+    "Precio": 232.0,
+    "Stock": 3,
+    "Clasificacion": {
+      "Nombre": "Mario",
+      "Descripcion": "jisj",
+      "EdadMinima": 10,
+      "SistemaClasificacion": "A-",
+      "Activo": true
+    },
+    "Activo": true
+  }
+]

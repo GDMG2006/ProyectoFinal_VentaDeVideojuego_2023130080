@@ -1,0 +1,32 @@
+[
+  {
+    "_primerNombre": "gary",
+    "_segundoNombre": "daniel",
+    "_apellidoPaterno": "montoya",
+    "_apellidoMaterno": "Guzman",
+    "PrimerNombre": "gary",
+    "SegundoNombre": "daniel",
+    "ApellidoPaterno": "montoya",
+    "ApellidoMaterno": "Guzman"
+  },
+  {
+    "_primerNombre": "Jose",
+    "_segundoNombre": "Marcos",
+    "_apellidoPaterno": "Montes",
+    "_apellidoMaterno": "",
+    "PrimerNombre": "Jose",
+    "SegundoNombre": "Marcos",
+    "ApellidoPaterno": "Montes",
+    "ApellidoMaterno": ""
+  },
+  {
+    "_primerNombre": "Daniel",
+    "_segundoNombre": "",
+    "_apellidoPaterno": "Montes",
+    "_apellidoMaterno": "",
+    "PrimerNombre": "Daniel",
+    "SegundoNombre": "",
+    "ApellidoPaterno": "Montes",
+    "ApellidoMaterno": ""
+  }
+]

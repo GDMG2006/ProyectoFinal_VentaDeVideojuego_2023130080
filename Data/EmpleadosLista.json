@@ -1,0 +1,29 @@
+[
+  {
+    "Puesto": "Especialista en E-commerce ",
+    "Sueldo": 25000.0,
+    "FechaContratacion": "2025-08-12T11:30:32.6158357-06:00",
+    "Nombre": "Montoya",
+    "Genero": "Otro",
+    "Telefono": "01020304",
+    "Correo": "Montoya@gmail.com"
+  },
+  {
+    "Puesto": "Vendero",
+    "Sueldo": 9500.0,
+    "FechaContratacion": "2025-08-16T00:52:24.9608744-06:00",
+    "Nombre": "marocs",
+    "Genero": "Otro",
+    "Telefono": "89897676",
+    "Correo": "marcos@gmail.com"
+  },
+  {
+    "Puesto": "Asistente",
+    "Sueldo": 90234.0,
+    "FechaContratacion": "2025-08-16T13:13:35.2774088-06:00",
+    "Nombre": "Daniel",
+    "Genero": "Otro",
+    "Telefono": "89232273",
+    "Correo": "Daniel@gmail.com"
+  }
+]

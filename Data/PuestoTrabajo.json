@@ -1,0 +1,20 @@
+[
+  {
+    "Nombre": "hola",
+    "Descripcion": "sss",
+    "SalarioBase": 222.0,
+    "Activo": true
+  },
+  {
+    "Nombre": "Asistente",
+    "Descripcion": "ayudante",
+    "SalarioBase": 1000.0,
+    "Activo": false
+  },
+  {
+    "Nombre": "Vendedor",
+    "Descripcion": "vende juegos",
+    "SalarioBase": 1500.0,
+    "Activo": true
+  }
+]

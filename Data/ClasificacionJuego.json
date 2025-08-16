@@ -1,0 +1,23 @@
+[
+  {
+    "Nombre": "Mario",
+    "Descripcion": "action",
+    "EdadMinima": 13,
+    "SistemaClasificacion": "M+",
+    "Activo": true
+  },
+  {
+    "Nombre": "Mario",
+    "Descripcion": "jisj",
+    "EdadMinima": 10,
+    "SistemaClasificacion": "A-",
+    "Activo": true
+  },
+  {
+    "Nombre": "tre",
+    "Descripcion": "nueva",
+    "EdadMinima": 20,
+    "SistemaClasificacion": "MA+",
+    "Activo": true
+  }
+]

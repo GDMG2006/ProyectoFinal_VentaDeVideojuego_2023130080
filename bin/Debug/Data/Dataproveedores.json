@@ -1,0 +1,18 @@
+[
+  {
+    "Nombre": "Mc",
+    "Telefono": "02394857",
+    "Email": "McP@gmail.com",
+    "Direccion": "Kennedy",
+    "TipoProducto": "Videojuegos físicos ",
+    "Activo": false
+  },
+  {
+    "Nombre": "tc",
+    "Telefono": "90237485",
+    "Email": "tc@gmail.com",
+    "Direccion": "kenne",
+    "TipoProducto": "Videojuegos físicos ",
+    "Activo": false
+  }
+]

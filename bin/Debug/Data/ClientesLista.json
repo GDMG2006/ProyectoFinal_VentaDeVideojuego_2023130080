@@ -1,0 +1,102 @@
+[
+  {
+    "Nombre": "mario",
+    "Genero": "Otro",
+    "Telefono": "89232265",
+    "Correo": "@gmail.com",
+    "Nacionalidad": "Desconocida",
+    "FechaRegistro": "2025-08-10T18:18:37.9476859-06:00",
+    "Habitual": true,
+    "Id": 1
+  },
+  {
+    "Nombre": "mario",
+    "Genero": "Otro",
+    "Telefono": "89232265",
+    "Correo": "@gmail.com",
+    "Nacionalidad": "Desconocida",
+    "FechaRegistro": "2025-08-10T18:18:45.671267-06:00",
+    "Habitual": true,
+    "Id": 2
+  },
+  {
+    "Nombre": "marcos",
+    "Genero": "Otro",
+    "Telefono": "89232265",
+    "Correo": "@gmail.com",
+    "Nacionalidad": "Desconocida",
+    "FechaRegistro": "2025-08-11T10:00:41.0406697-06:00",
+    "Habitual": true,
+    "Id": 1
+  },
+  {
+    "Nombre": "Mario",
+    "Genero": "Otro",
+    "Telefono": "23847509",
+    "Correo": "@gmail.com",
+    "Nacionalidad": "Desconocida",
+    "FechaRegistro": "2025-08-11T10:09:09.5588518-06:00",
+    "Habitual": true,
+    "Id": 1
+  },
+  {
+    "Nombre": "Mario",
+    "Genero": "Otro",
+    "Telefono": "23847509",
+    "Correo": "@gmail.com",
+    "Nacionalidad": "Desconocida",
+    "FechaRegistro": "2025-08-11T10:09:13.0546465-06:00",
+    "Habitual": true,
+    "Id": 2
+  },
+  {
+    "Nombre": "Gary",
+    "Genero": "Otro",
+    "Telefono": "89232265",
+    "Correo": "@GMAIL.com",
+    "Nacionalidad": "Desconocida",
+    "FechaRegistro": "2025-08-11T20:31:37.5777756-06:00",
+    "Habitual": true,
+    "Id": 1
+  },
+  {
+    "Nombre": "Montoya",
+    "Genero": "Otro",
+    "Telefono": "09080706",
+    "Correo": "@gmail.com",
+    "Nacionalidad": "Desconocida",
+    "FechaRegistro": "2025-08-12T11:30:18.3955668-06:00",
+    "Habitual": true,
+    "Id": 1
+  },
+  {
+    "Nombre": "daniel",
+    "Genero": "Otro",
+    "Telefono": "90234386",
+    "Correo": "@gmail.com",
+    "Nacionalidad": "Desconocida",
+    "FechaRegistro": "2025-08-12T18:23:49.963092-06:00",
+    "Habitual": false,
+    "Id": 1
+  },
+  {
+    "Nombre": "jose",
+    "Genero": "Otro",
+    "Telefono": "90238473",
+    "Correo": "@gmail.com",
+    "Nacionalidad": "Desconocida",
+    "FechaRegistro": "2025-08-12T18:24:12.0064881-06:00",
+    "Habitual": true,
+    "Id": 2
+  },
+  {
+    "Nombre": "Jose Marcos Montes",
+    "Genero": "Otro",
+    "Telefono": "67234565",
+    "Correo": "jose@gmail.com",
+    "Nacionalidad": "colom",
+    "FechaRegistro": "2025-08-16T00:57:59.5894909-06:00",
+    "Habitual": true,
+    "Id": 1
+  }
+]

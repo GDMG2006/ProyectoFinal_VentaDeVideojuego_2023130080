@@ -1,0 +1,23 @@
+[
+  {
+    "Nombre": "honduras",
+    "CodigoISO": "01",
+    "IdiomaPrincipal": "espanol",
+    "Region": "kkkk",
+    "FechaCreacion": "2025-08-15T12:48:50.5667848-06:00"
+  },
+  {
+    "Nombre": "colom",
+    "CodigoISO": "23",
+    "IdiomaPrincipal": "fsssda",
+    "Region": "hhh",
+    "FechaCreacion": "2025-08-15T12:58:24.2950144-06:00"
+  },
+  {
+    "Nombre": "Mexicana",
+    "CodigoISO": "53",
+    "IdiomaPrincipal": "Espanol",
+    "Region": "America",
+    "FechaCreacion": "2025-08-16T01:00:38.1610171-06:00"
+  }
+]
